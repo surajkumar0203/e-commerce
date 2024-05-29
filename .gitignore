@@ -22,10 +22,6 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
-# *.src/components/AddToCartTemp.txt
-# *.src/components/AddToCartTrmp.txt
-# *.src/components/Product_temp.txt
-# components
 src/components/AddToCartTemp.txt
 src/components/AddToCartTrmp.txt
 src/components/Product_temp.txt

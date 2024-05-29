@@ -4,6 +4,7 @@ import Home from "./components/Home";
 import AddToCart from "./components/AddToCart";
 import Contact from "./components/Contact";
 import ProductContent from "./components/ProductContent";
+import PageNotFound from "./PageNotFound";
 import { createContext,useState } from "react";
 import { Route, Routes } from "react-router-dom";
 
@@ -22,6 +23,7 @@ const App = () => {
             <Route path="/product" element={<ProductContent />} />
             <Route path="/addtocart" element={<AddToCart />} />
             <Route path="/contact" element={<Contact />} />
+            <Route path="*" element={<PageNotFound/>}/>
           </Routes>
         </Appstate.Provider>
     </>

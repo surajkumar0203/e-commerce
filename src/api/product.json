@@ -2,8 +2,8 @@
     {
         "id":1,
         "category": "Computer",
-        "imges": "../src/Images/samsungUltra.png",
-        "title": "Laptop",
+        "imges": "../src/Images/computer.png",
+        "title": "Computer",
         "decription": "Powerful laptop with a quad-core i5 processor, 8GB RAM, 256GB SSD, and a 14-inch FHD display.",
         "actual_price": 60000,
         "discount_price": 49999,
@@ -26,7 +26,7 @@
     {
         "id":3,
         "category": "Audio",
-        "imges":"../src/Images/noisespeaker.png",
+        "imges":"../src/Images/speaker.png",
         "title": "Speaker",
         "decription": "MZ M423SP - Sound Bar Dynamic Thunder Sound with High Bass 10 W Bluetooth Speaker. ",
         "actual_price": 39999,
@@ -50,7 +50,7 @@
     {
         "id":5,
         "category": "Wearables",
-        "imges": "../src/Images/Boatwatch.png",
+        "imges": "../src/Images/watch.png",
         "title": "Watches",
         "decription": "Smartwatch with a 1.3-inch AMOLED display, water-resistant design, fitness tracking features, and a stylish silver color.",
         "actual_price": 2999,
@@ -62,8 +62,8 @@
     {
         "id":6,
         "category": "Audio",
-        "imges": "../src/Images/realmeneckband.png",
-        "title": "Neckband",
+        "imges": "../src/Images/earbuds.png",
+        "title": "Earbuds",
         "decription": "Featuring sophisticated Active Noise Cancellation (ANC) technology, this neckband immerses you in a personalised auditory experience.",
         "actual_price": 2999,
         "discount_price": 1499,

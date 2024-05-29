@@ -137,7 +137,7 @@ const Product = () => {
                                             <div className='text-center w-40 h-40 mb-10'>
                                                 <img src={element.imges} alt={element.imges} className='max-w-full ' />
                                             </div>
-                                            <h2 className='text-3xl font-bold pt-14'>{element.title}</h2>
+                                            <h2 className='text-3xl font-bold pt-2'>{element.title}</h2>
                                             <div className='text-yellow-400'>
                                                 <StarIcon />
                                                 <StarIcon />

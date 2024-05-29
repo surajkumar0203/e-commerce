@@ -22,7 +22,7 @@ const Header = () => {
 
   return (
     <>
-      <header className='flex flex-col min-w-56 md:sticky md:-top-1 sm:sticky sm:-top-1'>
+      <header className='flex flex-col min-w-56 md:sticky md:-top-1 '>
       {/* sign up and sign in button */}
         <section className='bg-dark-teal text-teal-100'>
           <div className='flex md:justify-between md:flex-row flex-wrap p-5 justify-center flex-col items-center '>
